@@ -18,8 +18,6 @@
 </p>
 
 - 🎓 I'm a sophomore in Computer Engineering at Sal Engineering and Technical Institute
-<!-- - 👩‍💻 I'm an ML Intern at [LongShot AI](http://longshot.ai/) -->
-<!-- - 🖊 I write blogs on [The Perceptron](https://thepushkarp.com) -->
 - 🛠 I'm proficient with HTML,CSS,JS,Python,SQL
 - 🌱 I’m currently learning DSA and Machine Learning
 - 👯 I’m looking to contribute on Open Source
