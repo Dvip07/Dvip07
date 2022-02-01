@@ -30,7 +30,8 @@
   <tr>
     <td>
       <a href="https://github.com/thepushkarp">
-        <img src="https://github-readme-stats.vercel.app/api?username=thepushkarp&show_icons=true&include_all_commits=true&theme=tokyonight">
+<!--         <img src="https://github-readme-stats.vercel.app/api?username=thepushkarp&show_icons=true&include_all_commits=true&theme=tokyonight"> -->
+        (https://github-readme-stats.vercel.app/api?username=Dvip07)](https://github.com/anuraghazra/github-readme-stats)
       <a/>
     </td>
     <td>
