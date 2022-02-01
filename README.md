@@ -30,13 +30,12 @@
   <tr>
     <td>
       <a href="https://github.com/thepushkarp">
-<!--         <img src="https://github-readme-stats.vercel.app/api?username=thepushkarp&show_icons=true&include_all_commits=true&theme=tokyonight"> -->
-        (https://github-readme-stats.vercel.app/api?username=Dvip07)](https://github.com/anuraghazra/github-readme-stats)
+      <img src="https://github-readme-stats.vercel.app/api?username=Dvip07&show_icons=true&include_all_commits=true&theme=tokyonight">
       <a/>
     </td>
     <td>
       <a href="https://github.com/thepushkarp">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepushkarp&layout=compact&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dvip07&layout=compact&theme=tokyonight">
       <a/>
     </td>
    </tr>
