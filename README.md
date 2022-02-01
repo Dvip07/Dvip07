@@ -16,3 +16,27 @@
     <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white>
    </a>
 </p>
+
+- 🎓 I'm a sophomore in Computer Engineering at Sal Engineering and Technical Institute
+<!-- - 👩‍💻 I'm an ML Intern at [LongShot AI](http://longshot.ai/) -->
+<!-- - 🖊 I write blogs on [The Perceptron](https://thepushkarp.com) -->
+- 🛠 I'm proficient with HTML,CSS,JS,Python,SQL
+- 🌱 I’m currently learning DSA and Machine Learning
+- 👯 I’m looking to contribute on Open Source
+- 💬 Besides programming, I also love reading books.
+<!-- - 📫 Shoot me a mail at `thepushkarp[AT]gmail[DOT]com` -->
+
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/thepushkarp">
+        <img src="https://github-readme-stats.vercel.app/api?username=thepushkarp&show_icons=true&include_all_commits=true&theme=tokyonight">
+      <a/>
+    </td>
+    <td>
+      <a href="https://github.com/thepushkarp">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepushkarp&layout=compact&theme=tokyonight">
+      <a/>
+    </td>
+   </tr>
+</table>
