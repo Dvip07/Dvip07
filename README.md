@@ -21,7 +21,7 @@
 - 🛠 I'm proficient with HTML,CSS,JS,Python,SQL
 - 🌱 I’m currently learning DSA and Machine Learning
 - 👯 I’m looking to contribute on Open Source
-- 💬 Besides programming, I also love reading books.
+- 💬 Besides programming, I also love reading blogs.
 <!-- - 📫 Shoot me a mail at `thepushkarp[AT]gmail[DOT]com` -->
 
 <table align="center" cellspacing="0" cellpadding="0" border="0">
