@@ -27,12 +27,12 @@
 <table align="center" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td>
-<!--       <a href="https://github.com/thepushkarp"> -->
+      <a href="https://github.com/Dvip07">
       <img src="https://github-readme-stats.vercel.app/api?username=Dvip07&show_icons=true&include_all_commits=true&theme=tokyonight">
       <a/>
     </td>
     <td>
-<!--       <a href="https://github.com/thepushkarp"> -->
+        <a href="https://github.com/Dvip07">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dvip07&layout=compact&theme=tokyonight">
       <a/>
     </td>
