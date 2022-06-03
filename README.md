@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hey Folks <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Dvip 👨‍💻
+  Hey Folks <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> I'm Dvip 👨‍💻
 </h1>
 
 <p align="center">
