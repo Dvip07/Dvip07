@@ -17,7 +17,7 @@
    </a>
 </p>
 
-- 🎓 I'm a sophomore in Computer Engineering at Sal Engineering and Technical Institute
+- 🎓 I'm a Junior in Computer Engineering at Sal Engineering and Technical Institute
 - 🛠 I'm proficient with HTML,CSS,JS,Python,SQL
 - 🌱 I’m currently learning DSA and Machine Learning
 - 👯 I’m looking to contribute on Open Source
