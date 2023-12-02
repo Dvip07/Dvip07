@@ -17,12 +17,11 @@
    </a>
 </p>
 
-- 🎓 I'm a Junior in Computer Engineering at Sal Engineering and Technical Institute
-- 🛠 I'm proficient with HTML,CSS,JS,Python,SQL
+- 🎓 I'm in a Senior year in Computer Engineering at Sal Engineering and Technical Institute
+- 🛠 I'm proficient with HTML,CSS,JS,Python,SQL,PHP, ML
 - 🌱 I’m currently learning DSA and Machine Learning
 - 👯 I’m looking to contribute on Open Source
 - 💬 Besides programming, I also love reading blogs.
-<!-- - 📫 Shoot me a mail at `thepushkarp[AT]gmail[DOT]com` -->
 
 <table align="center" cellspacing="0" cellpadding="0" border="0">
   <tr>
