@@ -17,11 +17,8 @@
    </a>
 </p>
 
-- 🎓 I'm in a Senior year in Computer Engineering at Sal Engineering and Technical Institute
-- 🛠 I'm proficient with HTML,CSS,JS,Python,SQL,PHP, ML
-- 🌱 I’m currently learning DSA and Machine Learning
-- 👯 I’m looking to contribute on Open Source
-- 💬 Besides programming, I also love reading blogs.
+- 🎓 I'm in a 1st year in Software Engineering at Ontario Tech University
+- 🛠 I'm proficient with HTML,CSS,JS,Python,SQL,PHP, ML, Laravel.
 
 <table align="center" cellspacing="0" cellpadding="0" border="0">
   <tr>
