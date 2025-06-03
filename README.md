@@ -21,7 +21,7 @@
 
 - 🎓 **Currently a Master’s student in Software Engineering @ Ontario Tech University**
 - 🧠 **Research: AI x Project Management** (building systems that take your requirements chaos and turn it into a Work Breakdown Structure—faster than your group chat can say “scope creep”)
-- 🛠 **Code Superpowers:**  
+- 🛠 **Code Skills:**  
   Proficient in full stack development (Laravel, React, Node.js), cloud & DevOps (AWS, CI/CD), and applied AI/LLMs.
 - ☁️ **Cloud-certified (AWS CCP)**
 - 👔 **VP @ Hack Station | Founder @ Plantric (yes, I sometimes sleep)**
