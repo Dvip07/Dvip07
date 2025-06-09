@@ -24,7 +24,7 @@
 - 🛠 **Code Skills:**  
   Proficient in full stack development (Laravel, React, Node.js), cloud & DevOps (AWS, CI/CD), and applied AI/LLMs.
 - ☁️ **Cloud-certified (AWS CCP)**
-- 👔 **VP @ Hack Station | Founder @ Plantric (yes, I sometimes sleep)**
+- 👔 **VP @ Hack Station**
 - 🚀 **Building projects, breaking things, and making Agile... actually agile but smarter**
 
 ---
